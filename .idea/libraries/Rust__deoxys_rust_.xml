@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Rust &lt;deoxys-rust&gt;">
+    <CLASSES>
+      <root url="file://C:/Program Files/Rust stable GNU 1.12/rust-master/src/libstd" />
+      <root url="file://C:/Program Files/Rust stable GNU 1.12/rust-master/src/libcore" />
+      <root url="file://C:/Program Files/Rust stable GNU 1.12/rust-master/src/libcollections" />
+      <root url="file://C:/Program Files/Rust stable GNU 1.12/rust-master/src/liballoc" />
+      <root url="file://C:/Program Files/Rust stable GNU 1.12/rust-master/src/librustc_unicode" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

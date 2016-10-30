@@ -1,0 +1,7 @@
+[package]
+name = "deoxys-rust"
+version = "0.1.0"
+authors = ["Plutonist"]
+
+[dependencies]
+byteorder = "0.5"
